@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BufScada>
+    <Common VER="20" Project="C:\_Scada\DB\BD\SCADABD.GDB" />
+    <Pages>
+        <OnePage ID="584">
+            <ID>584</ID>
+            <NAME>Импорт</NAME>
+            <DPARAMS>2</DPARAMS>
+            <HEIGHT>600</HEIGHT>
+            <WIDTH>800</WIDTH>
+            <ZOOM>1</ZOOM>
+            <NUM>0</NUM>
+            <SHABLONPAGEID>0</SHABLONPAGEID>
+            <FONCOLOR>16777215</FONCOLOR>
+            <X>0</X>
+            <Y>0</Y>
+            <FORMARKA>0</FORMARKA>
+            <PRINTWIDTH />
+            <PRINTHEIGHT />
+            <PRINTPAGEA4>8</PRINTPAGEA4>
+            <FRAMENUM>4</FRAMENUM>
+            <SREZ>1</SREZ>
+            <SCRIPTCODE />
+            <DISC />
+            <LAYERS />
+            <HELPFILE />
+            <TEMPLATEPAGENAME>Root</TEMPLATEPAGENAME>
+            <EXDATA>0///Не определен/(Не определен)</EXDATA>
+            <PageLayers>
+                <OneLayer Num="1">
+{% for var in contents %}
+{{var}}{% endfor %}
+                </OneLayer>
+            </PageLayers>
+        </OnePage>
+    </Pages>
+</BufScada>

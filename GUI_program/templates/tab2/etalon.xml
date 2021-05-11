@@ -1,0 +1,1442 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BufScada><Common VER="20" Project="C:\_Scada\DB\KS2\SCADABD.GDB"/><Pages><OnePage ID="633"><ID>633</ID><NAME>ГП0011 СППВ_new</NAME><DPARAMS>2</DPARAMS><HEIGHT>1000</HEIGHT><WIDTH>1920</WIDTH><ZOOM>100</ZOOM><NUM>0</NUM><SHABLONPAGEID>605</SHABLONPAGEID><FONCOLOR>536870912</FONCOLOR><X>0</X><Y>0</Y><FORMARKA>0</FORMARKA><PRINTWIDTH>1920</PRINTWIDTH><PRINTHEIGHT>1000</PRINTHEIGHT><PRINTPAGEA4>8</PRINTPAGEA4><FRAMENUM>4</FRAMENUM><SREZ>1</SREZ><SCRIPTCODE/><DISC/><LAYERS/><HELPFILE/><TEMPLATEPAGENAME>Центальный фрейм_without</TEMPLATEPAGENAME><EXDATA>0///Не определен/(Не определен)</EXDATA><PageLayers><OneLayer Num="1"><OnePrim SourceT11ID="83923" X="550" Y="60" WIDTH="290" HEIGHT="160" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="273" PenColor="536870913" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83921" X="1320" Y="290" WIDTH="160" HEIGHT="220" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="273" PenColor="536870913" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83869" X="820" Y="260" WIDTH="520" HEIGHT="60" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="2" PenColor="8421504" BrushColor="536870912" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83917" X="180" Y="600" WIDTH="180" HEIGHT="190" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="273" PenColor="536870913" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83915" X="1495" Y="290" WIDTH="155" HEIGHT="200" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="273" PenColor="536870913" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83913" X="430" Y="345" WIDTH="390" HEIGHT="245" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="273" PenColor="536870913" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83911" X="830" Y="345" WIDTH="390" HEIGHT="245" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="273" PenColor="536870913" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83910" X="850" Y="60" WIDTH="260" HEIGHT="160" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="273" PenColor="536870913" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83905" X="1040" Y="730" WIDTH="250" HEIGHT="160" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="273" PenColor="536870913" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83903" X="1660" Y="370" WIDTH="190" HEIGHT="420" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="273" PenColor="536870913" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83623" X="1510" Y="380" WIDTH="20" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83625" X="1620" Y="380" WIDTH="20" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83626" X="1620" Y="450" WIDTH="20" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83628" X="1570" Y="480" WIDTH="14" HEIGHT="180" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83617" X="1400" Y="500" WIDTH="14" HEIGHT="50" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83669" X="30" Y="230" WIDTH="40" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83608" X="1010" Y="350" WIDTH="190" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83603" X="1180" Y="460" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83602" X="1180" Y="430" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83588" X="780" Y="420" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83589" X="780" Y="450" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83630" X="1480" Y="390" WIDTH="14" HEIGHT="280" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83629" X="1470" Y="380" WIDTH="20" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83622" X="1280" Y="340" WIDTH="14" HEIGHT="110" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83664" X="370" Y="530" WIDTH="14" HEIGHT="130" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83663" X="390" Y="440" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83656" X="210" Y="860" WIDTH="70" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83657" X="30" Y="850" WIDTH="130" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83658" X="110" Y="860" WIDTH="14" HEIGHT="60" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83659" X="240" Y="870" WIDTH="14" HEIGHT="60" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83660" X="210" Y="930" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83661" X="120" Y="920" WIDTH="80" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83609" X="340" Y="660" WIDTH="1370" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83607" X="460" Y="330" WIDTH="1400" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83611" X="1330" Y="550" WIDTH="80" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83610" X="460" Y="540" WIDTH="850" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83587" X="610" Y="350" WIDTH="200" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83566" X="460" Y="440" WIDTH="60" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83565" X="450" Y="160" WIDTH="14" HEIGHT="390" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83551" X="710" Y="190" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83550" X="570" Y="190" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83543" X="1230" Y="550" WIDTH="14" HEIGHT="60" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83542" X="1360" Y="560" WIDTH="14" HEIGHT="70" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83541" X="1330" Y="620" WIDTH="40" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83539" X="1240" Y="610" WIDTH="80" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83537" X="310" Y="50" WIDTH="14" HEIGHT="120" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83538" X="140" Y="50" WIDTH="14" HEIGHT="120" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83526" X="1400" Y="860" WIDTH="40" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83519" X="1770" Y="550" WIDTH="14" HEIGHT="30" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83510" X="270" Y="780" WIDTH="14" HEIGHT="80" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83487" X="1280" Y="210" WIDTH="150" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83486" X="1360" Y="160" WIDTH="60" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83485" X="1370" Y="90" WIDTH="210" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83484" X="1420" Y="100" WIDTH="14" HEIGHT="110" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83482" X="1670" Y="170" WIDTH="140" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83481" X="1510" Y="90" WIDTH="300" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83393" X="1660" Y="100" WIDTH="14" HEIGHT="80" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83475" X="1440" Y="800" WIDTH="330" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83391" X="1470" Y="870" WIDTH="60" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83394" X="1520" Y="810" WIDTH="14" HEIGHT="70" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83398" X="1390" Y="800" WIDTH="14" HEIGHT="70" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83409" X="1829" Y="430" WIDTH="40" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83423" X="1480" Y="380" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1362</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_180)</ExData></OnePrim><OnePrim SourceT11ID="83426" X="1500" Y="380" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83442" X="1800" Y="90" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83453" X="70" Y="170" WIDTH="150" HEIGHT="410" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2067</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank with cone cover vertical_down)</ExData></OnePrim><OnePrim SourceT11ID="83454" X="240" Y="170" WIDTH="150" HEIGHT="410" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2067</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank with cone cover vertical_down)</ExData></OnePrim><OnePrim SourceT11ID="83464" X="509" Y="390" WIDTH="70" HEIGHT="110" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1310</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank without cover vertical_1)</ExData></OnePrim><OnePrim SourceT11ID="83457" X="1430" Y="770" WIDTH="62" HEIGHT="62" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1297</ObjMSID><CardID>7634</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_PUMP_K10_1/PUMP_2x0</CardExDATA><ExData>2//(PUMP_2x0)/(PUMP_2x0 (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83465" X="510" Y="430" WIDTH="70" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K4.1
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83458" X="1270" Y="590" WIDTH="62" HEIGHT="62" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1297</ObjMSID><CardID>7633</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_PUMP_K08_2/PUMP_2x0</CardExDATA><ExData>2//(PUMP_2x0)/(PUMP_2x0 (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83459" X="1270" Y="520" WIDTH="62" HEIGHT="62" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1297</ObjMSID><CardID>7632</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_PUMP_K08_1/PUMP_2x0</CardExDATA><ExData>2//(PUMP_2x0)/(PUMP_2x0 (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83462" X="150" Y="900" WIDTH="62" HEIGHT="62" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1297</ObjMSID><CardID>7629</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_PUMP_K15_2/PUMP_2x0</CardExDATA><ExData>2//(PUMP_2x0)/(PUMP_2x0 (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83463" X="150" Y="830" WIDTH="62" HEIGHT="62" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1297</ObjMSID><CardID>7628</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_PUMP_K15_1/PUMP_2x0</CardExDATA><ExData>2//(PUMP_2x0)/(PUMP_2x0 (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83472" X="1340" Y="350" WIDTH="130" HEIGHT="150" OBJTYPE="8" GRNUM="83472" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2063</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank with cone cover vertical_copy)</ExData></OnePrim><OnePrim SourceT11ID="83612" X="1350" Y="460" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83472" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7656</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K06_300/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83613" X="1350" Y="430" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83472" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7657</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K06_845/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83614" X="1350" Y="400" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83472" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7658</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K06_1390/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83615" X="1370" Y="370" WIDTH="70" HEIGHT="30" OBJTYPE="1" GRNUM="83472" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K6
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83476" X="1690" Y="580" WIDTH="90" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83488" X="1280" Y="80" WIDTH="40" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83489" X="460" Y="150" WIDTH="870" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83490" X="1270" Y="90" WIDTH="14" HEIGHT="130" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83491" X="985" Y="99" WIDTH="115" HEIGHT="110" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="2" PenColor="8421504" BrushColor="12632256" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83496" X="1024" Y="170" WIDTH="50" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Авария
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83461" X="1320" Y="60" WIDTH="62" HEIGHT="62" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1297</ObjMSID><CardID>7630</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_PUMP_K01_1/PUMP_2x0</CardExDATA><ExData>2//(PUMP_2x0)/(PUMP_2x0 (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83500" X="741" Y="100" WIDTH="90" HEIGHT="110" OBJTYPE="8" GRNUM="83500" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1310</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank without cover vertical_1)</ExData></OnePrim><OnePrim SourceT11ID="83501" X="740" Y="140" WIDTH="90" HEIGHT="30" OBJTYPE="1" GRNUM="83500" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K3.1
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83497" X="985" Y="100" WIDTH="115" HEIGHT="20" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="2" PenColor="8421504" BrushColor="8421504" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K2.1
+[FONTID]=18
+[USERFONT]=10;Arial;1;16777215;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Меню (белый)/Arial/10/16777215/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83502" X="860" Y="99" WIDTH="115" HEIGHT="110" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="2" PenColor="8421504" BrushColor="12632256" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83552" X="700" Y="200" WIDTH="14" HEIGHT="50" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83553" X="560" Y="200" WIDTH="14" HEIGHT="50" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83504" X="904" Y="170" WIDTH="50" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Авария
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83554" X="570" Y="250" WIDTH="190" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83505" X="860" Y="100" WIDTH="115" HEIGHT="20" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="2" PenColor="8421504" BrushColor="8421504" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K2.2
+[FONTID]=18
+[USERFONT]=10;Arial;1;16777215;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Меню (белый)/Arial/10/16777215/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83507" X="904" Y="130" WIDTH="66" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Работа
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83508" X="601" Y="100" WIDTH="90" HEIGHT="110" OBJTYPE="8" GRNUM="83508" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1310</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank without cover vertical_1)</ExData></OnePrim><OnePrim SourceT11ID="83509" X="600" Y="140" WIDTH="90" HEIGHT="30" OBJTYPE="1" GRNUM="83508" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K3.2
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83517" X="1840" Y="660" WIDTH="29" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83560" X="430" Y="460" WIDTH="53" HEIGHT="51" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1997</ObjMSID><CardID>7650</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_VALVE_23_1/IMV</CardExDATA><ExData>2//(IMV)/(Мнемосимвол Кран(верт)_v2)</ExData></OnePrim><OnePrim SourceT11ID="83518" X="1860" Y="340" WIDTH="14" HEIGHT="330" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83562" X="430" Y="390" WIDTH="53" HEIGHT="51" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1997</ObjMSID><CardID>7648</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_VALVE_10_1/IMV</CardExDATA><ExData>2//(IMV)/(Мнемосимвол Кран(верт)_v2)</ExData></OnePrim><OnePrim SourceT11ID="83520" X="1770" Y="770" WIDTH="14" HEIGHT="30" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83569" X="600" Y="360" WIDTH="14" HEIGHT="70" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83563" X="1260" Y="390" WIDTH="53" HEIGHT="51" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1997</ObjMSID><CardID>7646</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_VALVE_17_1/IMV</CardExDATA><ExData>2//(IMV)/(Мнемосимвол Кран(верт)_v2)</ExData></OnePrim><OnePrim SourceT11ID="83521" X="1680" Y="590" WIDTH="14" HEIGHT="210" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83570" X="600" Y="460" WIDTH="14" HEIGHT="200" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83564" X="1710" Y="300" WIDTH="63" HEIGHT="58" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1632</ObjMSID><CardID>7647</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_VALVE_0028/IMV</CardExDATA><ExData>2//(IMV)/(Мнемосимвол Кран(горизонт))</ExData></OnePrim><OnePrim SourceT11ID="83571" X="660" Y="440" WIDTH="60" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83523" X="1870" Y="380" WIDTH="20" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83572" X="650" Y="340" WIDTH="14" HEIGHT="200" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83524" X="1880" Y="390" WIDTH="14" HEIGHT="580" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83567" X="580" Y="420" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83573" X="710" Y="390" WIDTH="70" HEIGHT="110" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1310</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank without cover vertical_1)</ExData></OnePrim><OnePrim SourceT11ID="83525" X="980" Y="960" WIDTH="910" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83568" X="580" Y="450" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83574" X="710" Y="430" WIDTH="70" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K4.2
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83527" X="980" Y="790" WIDTH="450" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83575" X="630" Y="460" WIDTH="53" HEIGHT="51" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1997</ObjMSID><CardID>7651</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_VALVE_23_2/IMV</CardExDATA><ExData>2//(IMV)/(Мнемосимвол Кран(верт)_v2)</ExData></OnePrim><OnePrim SourceT11ID="83528" X="1020" Y="800" WIDTH="14" HEIGHT="100" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83576" X="630" Y="390" WIDTH="53" HEIGHT="51" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1997</ObjMSID><CardID>7649</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_VALVE_10_2/IMV</CardExDATA><ExData>2//(IMV)/(Мнемосимвол Кран(верт)_v2)</ExData></OnePrim><OnePrim SourceT11ID="83529" X="1030" Y="850" WIDTH="270" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83530" X="1030" Y="900" WIDTH="270" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83531" X="1290" Y="800" WIDTH="14" HEIGHT="110" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83579" X="860" Y="440" WIDTH="60" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83580" X="850" Y="340" WIDTH="14" HEIGHT="200" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83581" X="909" Y="390" WIDTH="70" HEIGHT="110" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1310</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank without cover vertical_1)</ExData></OnePrim><OnePrim SourceT11ID="83582" X="910" Y="430" WIDTH="70" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K5.1
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83535" X="970" Y="790" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="4" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83583" X="830" Y="460" WIDTH="53" HEIGHT="51" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1997</ObjMSID><CardID>7654</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_VALVE_23_3/IMV</CardExDATA><ExData>2//(IMV)/(Мнемосимвол Кран(верт)_v2)</ExData></OnePrim><OnePrim SourceT11ID="83536" X="970" Y="960" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="6" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83584" X="830" Y="390" WIDTH="53" HEIGHT="51" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1997</ObjMSID><CardID>7652</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_VALVE_14_1/IMV</CardExDATA><ExData>2//(IMV)/(Мнемосимвол Кран(верт)_v2)</ExData></OnePrim><OnePrim SourceT11ID="83590" X="800" Y="340" WIDTH="14" HEIGHT="90" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83591" X="800" Y="460" WIDTH="14" HEIGHT="200" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83592" X="980" Y="430" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83593" X="980" Y="460" WIDTH="30" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83594" X="1000" Y="360" WIDTH="14" HEIGHT="80" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83595" X="1000" Y="466" WIDTH="14" HEIGHT="194" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83596" X="1060" Y="440" WIDTH="60" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83597" X="1050" Y="340" WIDTH="14" HEIGHT="200" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83598" X="1110" Y="390" WIDTH="70" HEIGHT="110" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1310</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank without cover vertical_1)</ExData></OnePrim><OnePrim SourceT11ID="83599" X="1110" Y="430" WIDTH="70" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K5.2
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83600" X="1030" Y="460" WIDTH="53" HEIGHT="51" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1997</ObjMSID><CardID>7655</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_VALVE_23_4/IMV</CardExDATA><ExData>2//(IMV)/(Мнемосимвол Кран(верт)_v2)</ExData></OnePrim><OnePrim SourceT11ID="83601" X="1030" Y="390" WIDTH="53" HEIGHT="51" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1997</ObjMSID><CardID>7653</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_VALVE_14_2/IMV</CardExDATA><ExData>2//(IMV)/(Мнемосимвол Кран(верт)_v2)</ExData></OnePrim><OnePrim SourceT11ID="83604" X="1200" Y="340" WIDTH="14" HEIGHT="90" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83605" X="1200" Y="466" WIDTH="14" HEIGHT="194" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83618" X="1530" Y="370" WIDTH="90" HEIGHT="110" OBJTYPE="8" GRNUM="83618" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1310</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank without cover vertical_1)</ExData></OnePrim><OnePrim SourceT11ID="83619" X="1530" Y="410" WIDTH="90" HEIGHT="30" OBJTYPE="1" GRNUM="83618" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=К7
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83621" X="1290" Y="440" WIDTH="50" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83624" X="1500" Y="340" WIDTH="14" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83627" X="1630" Y="340" WIDTH="14" HEIGHT="120" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83631" X="1670" Y="430" WIDTH="40" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83632" X="1660" Y="440" WIDTH="14" HEIGHT="220" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83652" X="1860" Y="50" WIDTH="14" HEIGHT="300" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83654" X="1800" Y="170" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83655" X="150" Y="40" WIDTH="1720" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83662" X="410" Y="450" WIDTH="14" HEIGHT="210" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83670" X="80" Y="340" WIDTH="130" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K13
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83672" X="1710" Y="400" WIDTH="130" HEIGHT="150" OBJTYPE="8" GRNUM="83672" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2063</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank with cone cover vertical_copy)</ExData></OnePrim><OnePrim SourceT11ID="83673" X="1720" Y="510" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83672" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7720</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K09_1_300/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83674" X="1720" Y="480" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83672" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7721</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K09_1_845/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83675" X="1720" Y="450" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83672" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7722</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K09_1_1390/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83676" X="1740" Y="420" WIDTH="70" HEIGHT="30" OBJTYPE="1" GRNUM="83672" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K9.1
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83671" X="250" Y="340" WIDTH="130" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K12
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83665" X="340" Y="680" WIDTH="40" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83666" X="280" Y="810" WIDTH="160" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1370</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Горизонтальная)</ExData></OnePrim><OnePrim SourceT11ID="83667" X="370" Y="690" WIDTH="14" HEIGHT="120" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83668" X="20" Y="240" WIDTH="14" HEIGHT="610" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1369</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Вертикальная)</ExData></OnePrim><OnePrim SourceT11ID="83677" X="1710" Y="620" WIDTH="130" HEIGHT="150" OBJTYPE="8" GRNUM="83677" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2063</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank with cone cover vertical_copy)</ExData></OnePrim><OnePrim SourceT11ID="83678" X="1720" Y="730" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83677" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7723</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K09_2_300/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83679" X="1720" Y="700" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83677" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7724</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K09_2_845/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83680" X="1720" Y="670" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83677" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7725</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K09_2_1390/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83681" X="1740" Y="640" WIDTH="70" HEIGHT="30" OBJTYPE="1" GRNUM="83677" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K9.2
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83682" X="210" Y="630" WIDTH="130" HEIGHT="150" OBJTYPE="8" GRNUM="83682" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2063</ObjMSID><CardID>0</CardID><ExData>12//(Разно_PAS)/(Tank with cone cover vertical_copy)</ExData></OnePrim><OnePrim SourceT11ID="83683" X="220" Y="740" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83682" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7717</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K14_300/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83684" X="220" Y="710" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83682" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7718</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K14_845/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83685" X="220" Y="680" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="83682" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7719</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K14_1390/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83686" X="240" Y="650" WIDTH="70" HEIGHT="30" OBJTYPE="1" GRNUM="83682" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=K14
+[FONTID]=40
+[USERFONT]=14;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Надпись;UP;Серая/Arial/14/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83687" X="930" Y="730" WIDTH="120" HEIGHT="60" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Вода В1 к#потребителям#P=0.3-0.4МПа
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83691" X="1230" Y="610" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83688" X="930" Y="890" WIDTH="120" HEIGHT="60" OBJTYPE="1" GRNUM="0" DRAWTYPE="130" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Циркуляция В1
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83692" X="1280" Y="440" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83693" X="1200" Y="430" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83689" X="1720" Y="110" WIDTH="120" HEIGHT="60" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Вода исходной#воды В2#P=0.3-0.8МПа
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83694" X="1400" Y="550" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83695" X="1360" Y="620" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83696" X="1200" Y="460" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1362</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_180)</ExData></OnePrim><OnePrim SourceT11ID="83697" X="1270" Y="210" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83698" X="1000" Y="350" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1361</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_090)</ExData></OnePrim><OnePrim SourceT11ID="83424" X="1000" Y="460" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1362</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_180)</ExData></OnePrim><OnePrim SourceT11ID="83699" X="1000" Y="430" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83700" X="800" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83701" X="1200" Y="350" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1365</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_090)</ExData></OnePrim><OnePrim SourceT11ID="83702" X="1200" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83703" X="1050" Y="440" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1367</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_270)</ExData></OnePrim><OnePrim SourceT11ID="83704" X="850" Y="440" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1367</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_270)</ExData></OnePrim><OnePrim SourceT11ID="83705" X="650" Y="440" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1367</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_270)</ExData></OnePrim><OnePrim SourceT11ID="83706" X="450" Y="440" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1367</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_270)</ExData></OnePrim><OnePrim SourceT11ID="83707" X="450" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1367</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_270)</ExData></OnePrim><OnePrim SourceT11ID="83708" X="800" Y="450" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1362</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_180)</ExData></OnePrim><OnePrim SourceT11ID="83709" X="800" Y="420" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83710" X="600" Y="450" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1362</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_180)</ExData></OnePrim><OnePrim SourceT11ID="83711" X="600" Y="420" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83712" X="600" Y="350" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1361</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_090)</ExData></OnePrim><OnePrim SourceT11ID="83713" X="800" Y="350" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1365</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_090)</ExData></OnePrim><OnePrim SourceT11ID="83714" X="650" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83715" X="850" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83716" X="1050" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83717" X="1200" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83718" X="1000" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83719" X="800" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83720" X="600" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83721" X="450" Y="150" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1361</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_090)</ExData></OnePrim><OnePrim SourceT11ID="83722" X="450" Y="540" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83723" X="560" Y="190" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1361</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_090)</ExData></OnePrim><OnePrim SourceT11ID="83724" X="560" Y="250" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83725" X="700" Y="190" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1361</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_090)</ExData></OnePrim><OnePrim SourceT11ID="83726" X="1050" Y="540" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83727" X="850" Y="540" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83728" X="650" Y="540" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83729" X="700" Y="250" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83731" X="1270" Y="80" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1361</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_090)</ExData></OnePrim><OnePrim SourceT11ID="83732" X="1280" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83733" X="1500" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83734" X="1630" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83735" X="1630" Y="450" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83736" X="1660" Y="430" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1361</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_090)</ExData></OnePrim><OnePrim SourceT11ID="83737" X="1680" Y="580" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1361</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_090)</ExData></OnePrim><OnePrim SourceT11ID="83738" X="1770" Y="580" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83739" X="1770" Y="800" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83740" X="1860" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83741" X="1360" Y="550" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83742" X="1630" Y="380" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1365</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_090)</ExData></OnePrim><OnePrim SourceT11ID="83743" X="1860" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1365</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_090)</ExData></OnePrim><OnePrim SourceT11ID="83744" X="1860" Y="430" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1365</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_090)</ExData></OnePrim><OnePrim SourceT11ID="83745" X="1880" Y="380" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1362</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_180)</ExData></OnePrim><OnePrim SourceT11ID="83746" X="1480" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83747" X="1570" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83748" X="1660" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83749" X="1680" Y="800" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83751" X="1290" Y="900" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83752" X="1020" Y="900" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83753" X="1390" Y="860" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83754" X="1520" Y="870" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83755" X="1230" Y="540" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83756" X="1020" Y="790" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83761" X="1290" Y="790" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83762" X="1390" Y="790" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83763" X="1290" Y="850" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1365</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_090)</ExData></OnePrim><OnePrim SourceT11ID="83764" X="410" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83765" X="370" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83767" X="270" Y="860" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83768" X="240" Y="930" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83769" X="370" Y="680" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1362</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_180)</ExData></OnePrim><OnePrim SourceT11ID="83770" X="410" Y="440" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1362</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_180)</ExData></OnePrim><OnePrim SourceT11ID="83771" X="110" Y="920" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83772" X="20" Y="850" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83773" X="20" Y="230" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1361</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_090)</ExData></OnePrim><OnePrim SourceT11ID="83774" X="110" Y="850" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83775" X="240" Y="860" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83776" X="1860" Y="380" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1367</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_270)</ExData></OnePrim><OnePrim SourceT11ID="83777" X="270" Y="810" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1367</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_270)</ExData></OnePrim><OnePrim SourceT11ID="83778" X="140" Y="40" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1361</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_090)</ExData></OnePrim><OnePrim SourceT11ID="83779" X="310" Y="40" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83780" X="1420" Y="210" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83782" X="1420" Y="90" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83783" X="1660" Y="90" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83784" X="1660" Y="170" WIDTH="14" HEIGHT="15" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1360</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_000)</ExData></OnePrim><OnePrim SourceT11ID="83785" X="1420" Y="160" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1365</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_090)</ExData></OnePrim><OnePrim SourceT11ID="83786" X="1860" Y="40" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1362</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_180)</ExData></OnePrim><OnePrim SourceT11ID="83787" X="1880" Y="960" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1363</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_270)</ExData></OnePrim><OnePrim SourceT11ID="83788" X="1270" Y="150" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1368</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(X)</ExData></OnePrim><OnePrim SourceT11ID="83797" X="40" Y="810" WIDTH="95" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1114</ObjMSID><CardID>7666</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_FROM_K15_P/AI_DIG</CardExDATA><ExData>2//(AI_DIG)/(ТТЧМИ (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83798" X="250" Y="870" WIDTH="95" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1114</ObjMSID><CardID>7665</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_TO_K15_P/AI_DIG</CardExDATA><ExData>2//(AI_DIG)/(ТТЧМИ (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83799" X="1310" Y="750" WIDTH="95" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1114</ObjMSID><CardID>7664</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_FROM_K10_P/AI_DIG</CardExDATA><ExData>2//(AI_DIG)/(ТТЧМИ (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83800" X="1530" Y="810" WIDTH="95" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1114</ObjMSID><CardID>7663</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_TO_K10_P/AI_DIG</CardExDATA><ExData>2//(AI_DIG)/(ТТЧМИ (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83801" X="1220" Y="480" WIDTH="95" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1114</ObjMSID><CardID>7662</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_FROM_K8_P/AI_DIG</CardExDATA><ExData>2//(AI_DIG)/(ТТЧМИ (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83802" X="1370" Y="560" WIDTH="95" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1114</ObjMSID><CardID>7661</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_TO_K8_P/AI_DIG</CardExDATA><ExData>2//(AI_DIG)/(ТТЧМИ (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83803" X="1180" Y="110" WIDTH="95" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1114</ObjMSID><CardID>7660</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_FROM_K1_P/AI_DIG</CardExDATA><ExData>2//(AI_DIG)/(ТТЧМИ (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83804" X="1430" Y="100" WIDTH="95" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1114</ObjMSID><CardID>7659</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_TO_K1_P/AI_DIG</CardExDATA><ExData>2//(AI_DIG)/(ТТЧМИ (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83805" X="1520" Y="800" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1364</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_000)</ExData></OnePrim><OnePrim SourceT11ID="83806" X="270" Y="830" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83807" X="430" Y="810" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="6" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83808" X="410" Y="550" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83809" X="450" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83810" X="20" Y="670" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83811" X="40" Y="230" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="6" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83812" X="400" Y="440" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83813" X="600" Y="520" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83814" X="370" Y="810" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1366</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_180)</ExData></OnePrim><OnePrim SourceT11ID="83815" X="390" Y="740" WIDTH="120" HEIGHT="60" OBJTYPE="1" GRNUM="0" DRAWTYPE="130" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Выпуск К3
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83816" X="450" Y="520" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83817" X="800" Y="520" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83818" X="650" Y="520" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83819" X="1000" Y="520" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83820" X="850" Y="520" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83821" X="1200" Y="520" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83822" X="1050" Y="520" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83823" X="450" Y="370" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83824" X="600" Y="370" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83825" X="650" Y="370" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83826" X="800" Y="370" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83827" X="850" Y="370" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83828" X="1000" Y="370" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83829" X="1050" Y="370" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83830" X="1200" Y="370" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83831" X="540" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="6" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83832" X="930" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="6" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83834" X="530" Y="540" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83835" X="930" Y="540" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83836" X="1280" Y="370" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83837" X="1500" Y="350" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83838" X="1630" Y="350" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83839" X="1630" Y="420" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83840" X="1530" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83841" X="1480" Y="520" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83845" X="1150" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83844" X="740" Y="660" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83846" X="700" Y="230" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83847" X="560" Y="230" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83848" X="510" Y="150" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83849" X="1570" Y="90" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83850" X="1160" Y="150" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83851" X="1860" Y="510" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83852" X="1880" Y="510" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="8" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83853" X="1390" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="6" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83854" X="1800" Y="330" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="6" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83855" X="1660" Y="500" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83856" X="1680" Y="610" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83857" X="1770" Y="780" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83858" X="1630" Y="800" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83860" X="1640" Y="960" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="6" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83861" X="1400" Y="520" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="14" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83495" X="1024" Y="130" WIDTH="66" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Работа
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83870" X="870" Y="170" WIDTH="34" HEIGHT="34" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1150</ObjMSID><CardID>7735</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_UV2_2_ALR/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D1 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83865" X="960" Y="270" WIDTH="95" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1114</ObjMSID><CardID>7726</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_T1/AI_DIG</CardExDATA><ExData>2//(AI_DIG)/(ТТЧМИ (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83871" X="870" Y="130" WIDTH="34" HEIGHT="34" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1150</ObjMSID><CardID>7734</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_UV2_2_WORK/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D1 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83867" X="830" Y="270" WIDTH="120" HEIGHT="40" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Температура#в электрощитовой
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83866" X="1110" Y="270" WIDTH="95" HEIGHT="40" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1114</ObjMSID><CardID>7727</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_T2/AI_DIG</CardExDATA><ExData>2//(AI_DIG)/(ТТЧМИ (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83872" X="990" Y="170" WIDTH="34" HEIGHT="34" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1150</ObjMSID><CardID>7733</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_UV2_1_ALR/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D1 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83868" X="1210" Y="270" WIDTH="120" HEIGHT="40" OBJTYPE="1" GRNUM="0" DRAWTYPE="4" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Температура#в машинном зале
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83873" X="990" Y="130" WIDTH="34" HEIGHT="34" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1150</ObjMSID><CardID>7732</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_UV2_1_WORK/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D1 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83876" X="620" Y="760" WIDTH="170" HEIGHT="150" OBJTYPE="2" GRNUM="0" DRAWTYPE="0" PenParams="258" PenColor="8421504" BrushColor="12566463" GradColor="536870911" ScriptName=""><PARAMS>[HINT]=</PARAMS></OnePrim><OnePrim SourceT11ID="83877" X="620" Y="760" WIDTH="170" HEIGHT="20" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="2" PenColor="8421504" BrushColor="8421504" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Состояние САУ
+[FONTID]=18
+[USERFONT]=10;Arial;1;16777215;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Меню (белый)/Arial/10/16777215/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83888" X="820" Y="240" WIDTH="520" HEIGHT="20" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="2" PenColor="8421504" BrushColor="8421504" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Измерения температуры
+[FONTID]=18
+[USERFONT]=10;Arial;1;16777215;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Меню (белый)/Arial/10/16777215/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83889" X="1020" Y="850" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>1367</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_T_270)</ExData></OnePrim><OnePrim SourceT11ID="83460" X="1320" Y="130" WIDTH="62" HEIGHT="62" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1297</ObjMSID><CardID>7631</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_PUMP_K01_2/PUMP_2x0</CardExDATA><ExData>2//(PUMP_2x0)/(PUMP_2x0 (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83897" X="750" Y="250" WIDTH="14" HEIGHT="14" OBJTYPE="8" GRNUM="0" DRAWTYPE="6" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+[HINT]=</PARAMS><ObjMSID>2065</ObjMSID><CardID>0</CardID><ExData>12//(Водоснабжение_мал)/(Water_L_Arrow)</ExData></OnePrim><OnePrim SourceT11ID="83898" X="750" Y="230" WIDTH="40" HEIGHT="20" OBJTYPE="1" GRNUM="0" DRAWTYPE="130" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=А2
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83899" X="260" Y="400" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7736</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K12_WORK/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83900" X="260" Y="430" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7737</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K12_ALARM/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83901" X="90" Y="400" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7738</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K13_WORK/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83902" X="90" Y="430" WIDTH="123" HEIGHT="30" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2081</ObjMSID><CardID>7739</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_K13_ALARM/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D2 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83942" X="1430" Y="840" WIDTH="62" HEIGHT="62" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1297</ObjMSID><CardID>7635</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_PUMP_K10_2/PUMP_2x0</CardExDATA><ExData>2//(PUMP_2x0)/(PUMP_2x0 (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83904" X="1660" Y="370" WIDTH="190" HEIGHT="28" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Резервуары чистой воды
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83906" X="1040" Y="730" WIDTH="250" HEIGHT="40" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Установки ультрафиолетового#обеззараживания
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83907" X="860" Y="60" WIDTH="240" HEIGHT="40" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Комплексы пропорционального#дозирования
+[FONTID]=38
+[USERFONT]=9;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Сисгнал;Серый/Arial/9/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83934" X="1100" Y="780" WIDTH="126" HEIGHT="32" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2087</ObjMSID><CardID>7752</CardID><CardExDATA>2/ICore_2/1/GP0011_UF11_2/SPPV_UF_1A</CardExDATA><ExData>2//(SPPV_UF_1A)/(UFO_1A_000 (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83936" X="674" Y="830" WIDTH="50" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Авария
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83935" X="1100" Y="840" WIDTH="126" HEIGHT="32" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>2087</ObjMSID><CardID>7751</CardID><CardExDATA>2/ICore_2/1/GP0011_UF11_1/SPPV_UF_1A</CardExDATA><ExData>2//(SPPV_UF_1A)/(UFO_1A_000 (мнемосимвол))</ExData></OnePrim><OnePrim SourceT11ID="83937" X="674" Y="790" WIDTH="66" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Работа
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83938" X="630" Y="830" WIDTH="34" HEIGHT="34" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1150</ObjMSID><CardID>7735</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_UV2_2_ALR/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D1 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83912" X="1000" Y="550" WIDTH="190" HEIGHT="40" OBJTYPE="1" GRNUM="0" DRAWTYPE="4" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Блок #угольных фильтров
+[FONTID]=38
+[USERFONT]=9;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Сисгнал;Серый/Arial/9/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83939" X="630" Y="790" WIDTH="34" HEIGHT="34" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1150</ObjMSID><CardID>7734</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_UV2_2_WORK/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D1 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83940" X="674" Y="870" WIDTH="106" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Неисправность
+[FONTID]=39
+[USERFONT]=9;Arial;1;5723991;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Шрифт Кнопки/Arial/9/5723991/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83914" X="610" Y="550" WIDTH="180" HEIGHT="40" OBJTYPE="1" GRNUM="0" DRAWTYPE="4" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Блок #осветлительных фильтров
+[FONTID]=38
+[USERFONT]=9;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Сисгнал;Серый/Arial/9/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83941" X="630" Y="870" WIDTH="34" HEIGHT="34" OBJTYPE="8" GRNUM="0" DRAWTYPE="0" PenParams="1" PenColor="0" BrushColor="16777215" GradColor="536870911" ScriptName=""><PARAMS>[MODE]=-1
+[TEXT]=
+[FONTID]=0
+[USERFONT]=8;MS Sans Serif;0;-16777208;
+</PARAMS><ObjMSID>1150</ObjMSID><CardID>7735</CardID><CardExDATA>2/ICore_2/1/GP0011_SPPV_UV2_2_ALR/DI_DIG</CardExDATA><ExData>2//(DI_DIG)/(RU_D1 (icon))</ExData></OnePrim><OnePrim SourceT11ID="83916" X="1505" Y="290" WIDTH="140" HEIGHT="40" OBJTYPE="1" GRNUM="0" DRAWTYPE="4" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Установка#обратноосмотическая
+[FONTID]=38
+[USERFONT]=9;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Сисгнал;Серый/Arial/9/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83918" X="185" Y="600" WIDTH="175" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="2" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Ёмкость сбора концентрата
+[FONTID]=38
+[USERFONT]=9;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Сисгнал;Серый/Arial/9/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83919" X="70" Y="180" WIDTH="150" HEIGHT="40" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Вакуумная#выпарная установка
+[FONTID]=38
+[USERFONT]=9;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Сисгнал;Серый/Arial/9/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83920" X="240" Y="180" WIDTH="150" HEIGHT="40" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Вакуумная#выпарная установка
+[FONTID]=38
+[USERFONT]=9;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Сисгнал;Серый/Arial/9/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83922" X="1330" Y="290" WIDTH="140" HEIGHT="40" OBJTYPE="1" GRNUM="0" DRAWTYPE="4" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Ёмкость#промывной воды
+[FONTID]=38
+[USERFONT]=9;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Сисгнал;Серый/Arial/9/6381921/1</FONTID_EXDATA></OnePrim><OnePrim SourceT11ID="83924" X="560" Y="60" WIDTH="280" HEIGHT="30" OBJTYPE="1" GRNUM="0" DRAWTYPE="0" PenParams="339" PenColor="0" BrushColor="0" GradColor="0" ScriptName=""><PARAMS>[TEXT]=Контактные резервуары
+[FONTID]=38
+[USERFONT]=9;Arial;1;6381921;
+[HINT]=
+[DELTAST]=2</PARAMS><FONTID_EXDATA>Сисгнал;Серый/Arial/9/6381921/1</FONTID_EXDATA></OnePrim></OneLayer></PageLayers></OnePage></Pages></BufScada>

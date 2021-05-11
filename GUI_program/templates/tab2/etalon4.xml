@@ -1,0 +1,126 @@
+PROGRAM GP0022_IBP_PRG
+
+//Температура АБ    
+GP0022_IBP_Tbat.In := 0.1*ANY_TO_REAL(_IO_IX92_0_5.ValueDINT);
+GP0022_IBP_Tbat.Invalid := FC_StatusDI(_IO_IX92_0_5.Status);
+
+//Сопротивление изоляции +  
+GP0022_IBP_Rp.In := 0.1*ANY_TO_REAL(_IO_IX95_0_0.ValueDINT);
+GP0022_IBP_Rp.Invalid := FC_StatusDI(_IO_IX95_0_0.Status);
+
+//Сопротивление изоляции -  
+GP0022_IBP_Rm.In := 0.1*ANY_TO_REAL(_IO_IX95_0_1.ValueDINT);
+GP0022_IBP_Rm.Invalid := FC_StatusDI(_IO_IX95_0_1.Status);
+
+//Напряжение  + земля   
+GP0022_IBP_Up.In := 0.1*ANY_TO_REAL(_IO_IX95_0_2.ValueDINT);
+GP0022_IBP_Up.Invalid := FC_StatusDI(_IO_IX95_0_2.Status);
+
+//Напряжение  -  земля  
+GP0022_IBP_Um.In := 0.1*ANY_TO_REAL(_IO_IX95_0_3.ValueDINT);
+GP0022_IBP_Um.Invalid := FC_StatusDI(_IO_IX95_0_3.Status);
+
+//Напряжение АБ 
+GP0022_IBP_Ubat.In := 0.1*ANY_TO_REAL(_IO_IX92_0_0.ValueDINT);
+GP0022_IBP_Ubat.Invalid := FC_StatusDI(_IO_IX92_0_0.Status);
+
+//Напряжение нагрузки   
+GP0022_IBP_Uout.In := 0.1*ANY_TO_REAL(_IO_IX92_0_1.ValueDINT);
+GP0022_IBP_Uout.Invalid := FC_StatusDI(_IO_IX92_0_1.Status);
+
+//Выходное напряжение ЗВУ   
+GP0022_IBP_Uzvu.In := 0.1*ANY_TO_REAL(_IO_IX92_0_2.ValueDINT);
+GP0022_IBP_Uzvu.Invalid := FC_StatusDI(_IO_IX92_0_2.Status);
+
+//Напряжение А-В    
+GP0022_IBP_UAB.In := 0.1*ANY_TO_REAL(_IO_IX93_0_0.ValueDINT);
+GP0022_IBP_UAB.Invalid := FC_StatusDI(_IO_IX93_0_0.Status);
+
+//Напряжение А-С    
+GP0022_IBP_UAC.In := 0.1*ANY_TO_REAL(_IO_IX93_0_1.ValueDINT);
+GP0022_IBP_UAC.Invalid := FC_StatusDI(_IO_IX93_0_1.Status);
+
+//Напряжение В-С    
+GP0022_IBP_UBC.In := 0.1*ANY_TO_REAL(_IO_IX93_0_2.ValueDINT);
+GP0022_IBP_UBC.Invalid := FC_StatusDI(_IO_IX93_0_2.Status);
+
+//Ток нагрузки  
+GP0022_IBP_Iout.In := 0.1*ANY_TO_REAL(_IO_IX92_0_4.ValueDINT);
+GP0022_IBP_Iout.Invalid := FC_StatusDI(_IO_IX92_0_4.Status);
+
+//Выходной ток ЗВУ    
+GP0022_IBP_Izvu.In := 0.1*ANY_TO_REAL(_IO_IX94_0_0.ValueDINT);
+GP0022_IBP_Izvu.Invalid := FC_StatusDI(_IO_IX94_0_0.Status);
+
+//Ток АБ
+GP0022_IBP_Ibat.In := 0.1*ANY_TO_REAL(_IO_IX92_0_3.ValueDINT);
+GP0022_IBP_Ibat.Invalid := FC_StatusDI(_IO_IX92_0_3.Status);
+
+
+//Высокое напряжение нагрузки   
+GP0022_IBP_Uout_high.In := _IO_IX88_0_0.ValueBOOL;
+GP0022_IBP_Uout_high.Invalid := FC_StatusDI(_IO_IX88_0_0.Status);
+
+//Низкое напряжение нагрузки    
+GP0022_IBP_Uout_low.In := _IO_IX88_0_1.ValueBOOL;
+GP0022_IBP_Uout_low.Invalid := FC_StatusDI(_IO_IX88_0_1.Status);
+
+//Высокое напряжение батареи    
+GP0022_IBP_Ubat_high.In := _IO_IX88_0_2.ValueBOOL;
+GP0022_IBP_Ubat_high.Invalid := FC_StatusDI(_IO_IX88_0_2.Status);
+
+//Низкое напряжение батареи 
+GP0022_IBP_Ubat_low.In := _IO_IX88_0_3.ValueBOOL;
+GP0022_IBP_Ubat_low.Invalid := FC_StatusDI(_IO_IX88_0_3.Status);
+
+//Авария изоляции   
+GP0022_IBP_Al_insul.In := _IO_IX88_0_6.ValueBOOL;
+GP0022_IBP_Al_insul.Invalid := FC_StatusDI(_IO_IX88_0_6.Status);
+
+//Режим заряда  
+GP0022_IBP_bat_mode.In := _IO_IX88_0_7.ValueBOOL;
+GP0022_IBP_bat_mode.Invalid := FC_StatusDI(_IO_IX88_0_7.Status);
+
+//Авария, нет сети  
+GP0022_IBP_no_net.In := _IO_IX88_0_7.ValueBOOL;
+GP0022_IBP_no_net.Invalid := FC_StatusDI(_IO_IX88_0_7.Status);
+
+//Потеря фазы   
+GP0022_IBP_ph_loss.In := _IO_IX88_0_7.ValueBOOL;
+GP0022_IBP_ph_loss.Invalid := FC_StatusDI(_IO_IX88_0_7.Status);
+
+//Потеря связи с модулем MDCS   
+GP0022_IBP_no_conn_MDCS.In := _IO_IX89_0_0.ValueBOOL;
+GP0022_IBP_no_conn_MDCS.Invalid := FC_StatusDI(_IO_IX89_0_0.Status);
+
+//Авария системы, неисправность ЗВУ
+GP0022_IBP_Al_sys.In := _IO_IX90_0_0.ValueBOOL;
+GP0022_IBP_Al_sys.Invalid := FC_StatusDI(_IO_IX90_0_0.Status);
+
+
+//Авт. выключатель  
+GP0022_IBP_QF1.InEOff := _IO_IX91_0_1.ValueBOOL;   GP0022_IBP_QF1.InvalidEOff := FC_StatusDI(_IO_IX91_0_1.Status);
+GP0022_IBP_QF1.InOn := NOT _IO_IX91_0_0.ValueBOOL;  GP0022_IBP_QF1.InvalidOn := FC_StatusDI(_IO_IX91_0_0.Status);
+GP0022_IBP_QF1.InOff := _IO_IX91_0_0.ValueBOOL;  GP0022_IBP_QF1.InvalidOff := FC_StatusDI(_IO_IX91_0_0.Status); 
+
+//Авт. выключатель  
+GP0022_IBP_QF2.InEOff := _IO_IX91_0_3.ValueBOOL;   GP0022_IBP_QF2.InvalidEOff := FC_StatusDI(_IO_IX91_0_3.Status);
+GP0022_IBP_QF2.InOn := NOT _IO_IX91_0_2.ValueBOOL;  GP0022_IBP_QF2.InvalidOn := FC_StatusDI(_IO_IX91_0_2.Status);
+GP0022_IBP_QF2.InOff := _IO_IX91_0_2.ValueBOOL;  GP0022_IBP_QF2.InvalidOff := FC_StatusDI(_IO_IX91_0_2.Status); 
+
+//Авт. выключатель  
+GP0022_IBP_QF3.InEOff := _IO_IX91_0_5.ValueBOOL;   GP0022_IBP_QF3.InvalidEOff := FC_StatusDI(_IO_IX91_0_5.Status);
+GP0022_IBP_QF3.InOn := NOT _IO_IX91_0_4.ValueBOOL;  GP0022_IBP_QF3.InvalidOn := FC_StatusDI(_IO_IX91_0_4.Status);
+GP0022_IBP_QF3.InOff := _IO_IX91_0_4.ValueBOOL;  GP0022_IBP_QF3.InvalidOff := FC_StatusDI(_IO_IX91_0_4.Status); 
+
+//Авт. выключатель  
+GP0022_IBP_QF4.InEOff := _IO_IX91_0_7.ValueBOOL;   GP0022_IBP_QF4.InvalidEOff := FC_StatusDI(_IO_IX91_0_7.Status);
+GP0022_IBP_QF4.InOn := NOT _IO_IX91_0_6.ValueBOOL;  GP0022_IBP_QF4.InvalidOn := FC_StatusDI(_IO_IX91_0_6.Status);
+GP0022_IBP_QF4.InOff := _IO_IX91_0_6.ValueBOOL;  GP0022_IBP_QF4.InvalidOff := FC_StatusDI(_IO_IX91_0_6.Status); 
+
+//Авт. выключатель
+GP0022_IBP_QF5.InEOff := _IO_IX91_0_9.ValueBOOL;   GP0022_IBP_QF5.InvalidEOff := FC_StatusDI(_IO_IX91_0_9.Status);
+GP0022_IBP_QF5.InOn := NOT _IO_IX91_0_8.ValueBOOL;  GP0022_IBP_QF5.InvalidOn := FC_StatusDI(_IO_IX91_0_8.Status);
+GP0022_IBP_QF5.InOff := _IO_IX91_0_8.ValueBOOL;  GP0022_IBP_QF5.InvalidOff := FC_StatusDI(_IO_IX91_0_8.Status); 
+
+END_PROGRAM

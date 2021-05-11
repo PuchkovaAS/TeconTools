@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BufScada>
+	<Common Project="C:\_Scada\DB\Agminskay\FOR_TEST\SCADABD.GDB" VER="28"/>
+	<Pages>
+{% for page in pages %}
+{{page}}{% endfor %}
+	</Pages>
+	<GRPAGESINFO>
+{% for page_link in page_links %}
+{{page_link}}{% endfor %}
+	</GRPAGESINFO>
+{{colorstyles}}
+</BufScada>

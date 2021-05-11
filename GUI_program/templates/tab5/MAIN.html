@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BufScadaPOUS>
+	<Common ControllerID="317" ControllerTypeName="" Project="C:\_Scada\DB\BD\SCADABD.GDB" ResuorceID="10" VER="21" isCut="false" isFFB="false"/>
+	<POUS>
+		<OnePOU Disc="" Enabled="1" GroupID="0" ID="3108" NAME="{{name}}" POUNum="110" isFBD="1">
+			<PARAMS>
+				<DPARAMS>3</DPARAMS>
+				<HEIGHT>2000</HEIGHT>
+				<WIDTH>2000</WIDTH>
+				<SHABLONPAGEID>0</SHABLONPAGEID>
+				<FONCOLOR>16777215</FONCOLOR>
+				<PRINTWIDTH/>
+				<PRINTHEIGHT/>
+				<PRINTPAGEA4>8</PRINTPAGEA4>
+			</PARAMS>
+			<ISAGraf>
+				<Types/>
+				<Blocks>{% for block in bloks %}{{block}}{% endfor %}
+				</Blocks>
+				<Gotos/>
+				<Links>{% for link in links %}{{link}}{% endfor %}
+				</Links>
+			</ISAGraf>
+			<GrObj/>
+		</OnePOU>
+	</POUS>
+</BufScadaPOUS>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BufScada>
+    <Common VER="20" Project="C:\_Scada\DB\Agminskay\FOR_TEST\SCADABD.GDB" />
+    <Pages>
+        <OnePage ID="503">
+            <ID>503</ID>
+            <NAME>Меню_{{name_title}}</NAME>
+            <DPARAMS>242</DPARAMS>
+            <HEIGHT>{{Y}}</HEIGHT>
+            <WIDTH>{{WIDTH}}</WIDTH>
+            <ZOOM>100</ZOOM>
+            <NUM>0</NUM>
+            <SHABLONPAGEID>0</SHABLONPAGEID>
+            <FONCOLOR>536870912</FONCOLOR>
+            <X>0</X>
+            <Y>0</Y>
+            <FORMARKA>0</FORMARKA>
+            <PRINTWIDTH>1937</PRINTWIDTH>
+            <PRINTHEIGHT>1363</PRINTHEIGHT>
+            <PRINTPAGEA4>8</PRINTPAGEA4>
+            <FRAMENUM>5</FRAMENUM>
+            <SREZ>1</SREZ>
+            <SCRIPTCODE />
+            <DISC />
+            <LAYERS />
+            <HELPFILE />
+            <TEMPLATEPAGENAME>Root</TEMPLATEPAGENAME>
+            <EXDATA>0///Не определен/(Не определен)</EXDATA>
+            <PageLayers>
+                <OneLayer Num="1">
+{% for other in others %}
+{{other}}{% endfor %}
+{% for pict2 in picts2 %}
+{{pict2}}{% endfor %}
+{% for var in vars %}
+{{var}}{% endfor %}
+{% for pict in picts %}
+{{pict}}{% endfor %}
+
+                </OneLayer>
+            </PageLayers>
+        </OnePage>
+    </Pages>
+</BufScada>
